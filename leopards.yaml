@@ -2,7 +2,11 @@ team: Leopards
 
 manager: Luke
 
+<<<<<<< HEAD
 coach: Nicholas
+=======
+coach: Melissa
+>>>>>>> 717a689 (Edit Leopards)
 
 members:
 - Linda
